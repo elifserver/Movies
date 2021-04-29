@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Error Texts -->
+
+
+    <!--Latest Movie -->
+    <string name="latestMovie_title">Murielle, moi non plus</string>
+
+
+
+    <!--Now Playing -->
+    <string name="nowPlaying-count">970</string>
+
+</resources>

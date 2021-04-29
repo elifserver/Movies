@@ -1,0 +1,34 @@
+Request method:	DELETE
+Request URI:	https://api.themoviedb.org/3/movie/460465/rating?api_key=2a0477b0754ba0b8bd121360c3eebf7e&guest_session_id=9b465c00b7cf0820a2c5792413f12d0a
+Proxy:			<none>
+Request params:	<none>
+Query params:	api_key=2a0477b0754ba0b8bd121360c3eebf7e
+				guest_session_id=9b465c00b7cf0820a2c5792413f12d0a
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=utf-8
+Content-Length: 94
+Connection: keep-alive
+Date: Thu, 29 Apr 2021 09:21:50 GMT
+Server: openresty
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE, OPTIONS
+Access-Control-Expose-Headers: ETag, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, Retry-After, Content-Length, Content-Range
+Cache-Control: public, max-age=0
+ETag: W/"0566f98871ddfd7f6ade28aaefb5167d"
+X-Cache: Miss from cloudfront
+Via: 1.1 f9e281a6bf2f092f94317867f8034cf8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LHR62-C5
+X-Amz-Cf-Id: _8a8juZeCMeaKfVYkFaWdrdiE-yeoKAiH0pixNuDLZT8oshrw9d9Jw==
+
+{
+    "success": true,
+    "status_code": 13,
+    "status_message": "The item/record was deleted successfully."
+}
